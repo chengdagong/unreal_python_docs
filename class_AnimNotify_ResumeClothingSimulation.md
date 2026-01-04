@@ -1,0 +1,30 @@
+# unreal.AnimNotify_ResumeClothingSimulation
+
+```python
+class unreal.AnimNotify_ResumeClothingSimulation(outer:Object | None=None, name:Name | str='None')
+```
+
+
+**Bases:** ``AnimNotify``
+
+
+Anim Notify Resume Clothing Simulation
+
+**C++ Source:**
+
+- **Module**: Engine
+
+- **File**: AnimNotify\_ResumeClothingSimulation.h
+
+
+**Editor Properties:** (see get\_editor\_property/set\_editor\_property)
+
+- `notify_color` (Color): [Read-Write] Color of Notify in editor
+
+- `should_fire_in_editor` (bool): [Read-Write] Whether this notify instance should fire in animation editors
+
+
+### Table of Contents
+
+- `unreal.AnimNotify_ResumeClothingSimulation`
+  - `AnimNotify_ResumeClothingSimulation`
